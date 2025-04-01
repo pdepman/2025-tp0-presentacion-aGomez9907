@@ -1,7 +1,7 @@
 ## **Trabajo Practico n°0**
 
 - **Nombre**: Alejo Gomez
-- **Legajo**: 213.3777-5
+- **Legajo**: 213.377-5
 
   <img src="./presentacion.jpeg" alt="Logo de mi proyecto" width="150" height="200">
 
